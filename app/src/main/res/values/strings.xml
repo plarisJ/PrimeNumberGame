@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prime Number Game</string>
+    <string name="topic">Prime Number Game</string>
+    <string name="Name">Enter Your Name</string>
+    <string name="hintPlayerName">Enter Your Name</string>
+    <string name="Start">Start</string>
+    <string name="Play">Play</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="PlayAgain">PlayAgain</string>
+    <string name="exit">exit</string>
+</resources>
